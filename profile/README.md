@@ -1,7 +1,5 @@
 
 
----
-
 # Nexus RCOE – Open Source Community
 
 **Nexus RCOE** is a student-driven open-source community that helps learners understand Git, GitHub, and contribute to real projects through practical, hands-on experience.
