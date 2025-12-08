@@ -23,6 +23,10 @@
 5. Submit your first pull request
 
 ---
+## Organisation and Github Standards!
+* For Organisation standards You can direct refer to [`Organisation Standard`](Organisation_GitHub_Standards_README.md)
+* For Github Contribution standards You can direct refer to [`Github Standard`](Github_Standards_README.md)
+---
 
 ## Connect With Us
 
